@@ -1,4 +1,4 @@
-# DecisionTreeClassifier
+# DecisionTreeAlgorithm
 # TASK 6
 The Sparks Foundation
 GRIP
