@@ -1,7 +1,7 @@
 # DecisionTreeAlgorithm
 # TASK 6
 The Sparks Foundation
-GRIP
+GRIP MAY21
 Project- Decision Tree Algorithm 
 This is an internship project.
 It is a Data Science and Business analytics task where the decision tree algorithm will predict the class when given the test data and new data. 
